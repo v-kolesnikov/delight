@@ -1,0 +1,6 @@
+[package]
+name = "delight"
+version = "0.1.0"
+authors = ["Vasily Kolesnikov <re.vkolesnikov@gmail.com>"]
+
+[dependencies]
